@@ -29,7 +29,7 @@ public class Menu {
             System.out.println("STORE ORDER MANAGEMENT SYSTEM");
             System.out.println("Instructor: Mr. Tom Huynh & Dr. Phong Ngo");
             System.out.println("Group: Random 4");
-            System.out.println("Vu Phan Anh - s3926005" + ","+ "Phi Nguyen Anh Duy - s3613692");
+            System.out.println("Vu Phan Anh - s3926005" + ","+ "Phi Nguyen Anh Duy - s3613692" + "," + "Nguyen Duy Khang - sS3963613");
             System.out.println("==================================");
             System.out.println("----- Welcome to the store ------");
             System.out.println("==================================");
